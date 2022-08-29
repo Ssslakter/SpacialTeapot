@@ -1,0 +1,4 @@
+displayName = Spacial Teapot
+author = Slakter
+version = 0.1
+modReferences = SubworldLibrary
