@@ -1,1 +1,2 @@
-# SpacialTeapot
+# Spacial Teapot
+Mod for terraria
